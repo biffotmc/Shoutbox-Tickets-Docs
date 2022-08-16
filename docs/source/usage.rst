@@ -1,16 +1,15 @@
 Usage
 =====
 
-.. _installation:
+.. _General Usage:
 
-Installation
+Opening a ticket
 ------------
 
-To use Lumache, first install it using pip:
+To open a ticket, :
 
-.. code-block:: console
-
-   (.venv) $ pip install lumache
+.. image:: /images/
+    :alt: 
 
 Creating recipes
 ----------------
