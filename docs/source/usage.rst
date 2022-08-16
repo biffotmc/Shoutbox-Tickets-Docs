@@ -8,7 +8,7 @@ Opening a ticket
 
 To open a ticket, :
 
-.. image:: /D1E52B98-AF8D-4294-9871-FBBB0ADE3B64.jpeg
+.. image:: D1E52B98-AF8D-4294-9871-FBBB0ADE3B64.jpeg
     :alt: Ticket Panel
 
 Creating recipes
